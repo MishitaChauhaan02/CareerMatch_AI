@@ -1,0 +1,631 @@
+
+ROLE: AI Engineer
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Model Development : Design, build, and deploy AI/ML models, including deep learning and LLM-based solutions.
+- Optimization : Develop, fine-tune, and optimize models using PyTorch and HF Transformers.
+- Agentic AI & Workflows : Architect and build Agentic AI systems, autonomous agents, and complex RAG workflows using LangChain and LangGraph.
+- Vector Search : Implement and manage Vector Databases (Pinecone, FAISS, Chroma, Weaviate, etc.) for embedding storage and retrieval.
+- Data Pipelines : Work with large datasets to perform data preprocessing, feature engineering, and data pipeline design.
+- Production Deployment : Integrate ML models into production using scalable architectures and APIs (FastAPI / Flask).
+
+REQUIRED SKILLS:
+- Python
+- Transformers
+- LLM fine-tuning
+- RAG architectures
+- prompt engineering
+- model evaluation
+- LangChain
+- LangGraph
+- MLOps tools
+- Docker
+- FastAPI
+-  Flask
+
+PREFERRED SKILLS:
+- Experience working with LLM APIs (OpenAI, Gemini, Claude)
+- Hands-on experience with Retrieval-Augmented Generation (RAG)
+- Familiarity with Vector Databases (Pinecone, FAISS, Chroma, Weaviate)
+- Basic MLOps knowledge (model versioning, monitoring, CI/CD)
+- Docker & containerized ML deployments
+- Cloud fundamentals (AWS / GCP)
+- Experience deploying AI models using REST APIs
+- Understanding of system design for AI applications
+- Git/GitHub collaboration workflows
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: AI Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Develop and implement AI algorithms using Python.
+- Assist in building Machine Learning models for various projects.
+- Conduct research on Natural Language Processing (NLP) techniques.
+- Collaborate with team members to optimize AI solutions.
+- Analyze and interpret data to improve AI systems.
+- Stay updated on the latest trends in AI technology.
+- Present findings and recommendations to senior staff members.
+
+REQUIRED SKILLS:
+- Python
+- Machine Learning Algorithms
+- NLP
+- LLM fine-tuning
+- prompt engineering
+
+PREFERRED SKILLS:
+- Basic understanding of Deep Learning frameworks (PyTorch / TensorFlow)
+- Familiarity with LLM APIs (OpenAI, Gemini, Claude)
+- Introductory knowledge of RAG or vector search concepts
+- Experience using Git/GitHub for collaboration
+- Willingness to learn MLOps and deployment practices
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: AI Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Assist in developing and deploying AI-powered solutions for personal assistance, stock market insights, and business automation.
+- Work with Natural Language Processing (NLP), vector databases (Weaviate, Pinecone, FAISS), and AI models for content generation.
+- Support the optimization of Retrieval-Augmented Generation (RAG) pipelines for AI-driven decision-making.
+- Collaborate with senior engineers on AI model training, fine-tuning, and integration into business applications.
+- Conduct research on emerging AI technologies and contribute to innovative AI-driven projects.
+
+REQUIRED SKILLS:
+-  LLMs
+-  Natural Language Processing (NLP)
+- Python
+- TensorFlow/PyTorch
+- OpenAI APIs
+- Machine Learning
+- LangChain
+
+PREFERRED SKILLS:
+- Understanding of RAG and vector databases
+- Basic Docker or deployment knowledge
+- Git/GitHub collaboration
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: AI Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Assist in designing, training, and evaluating machine learning models relevant to classification, NLP, or conversational analytics.
+- Support integration of AI components into backend services and user-facing platforms.
+- Participate in feature engineering, model testing, and iterative refinement of AI/ML pipelines.
+- Research and experiment with new AI/ML techniques that can improve product capabilities.
+
+REQUIRED SKILLS:
+- Machine Learning 
+- Automation 
+- Debugging
+- ChatGPT
+- LangChain
+
+PREFERRED SKILLS:
+- Experience with NLP libraries (e.g., NLTK, SpaCy, Hugging Face).
+- Familiarity with cloud platforms like AWS, GCP, or Azure.
+- Exposure to building APIs or microservices for ML model serving.
+- Understanding of data pipelines and experimentation frameworks.
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: AI Engineer
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Designing and Developing AI models, creating architectures, algorithms, and frameworks for generative AI.
+- Implementing AI models into existing systems and applications.
+- Collaborating with teams like data scientists, product managers, and stakeholders.
+- Testing, deploying, monitoring, and optimizing AI models for performance.
+- Staying updated with the latest advancements in Gen AI techniques.
+
+REQUIRED SKILLS:
+- Python
+- Generative AI
+- NLP
+- LLMs
+- RAG pipelines
+- Vector Databases
+- prompt engineering
+-  fine-tuning AI models
+- problem-solving skills 
+
+PREFERRED SKILLS:
+- FastAPI / Flask model deployment
+- Docker & basic MLOps
+- Cloud fundamentals (AWS / GCP)
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: AI Engineer
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Develop, train, and optimize machine learning and deep learning models for real-world applications.
+- Build scalable data pipelines and preprocess large datasets for AI/ML use cases.
+- Work with cross-functional teams to gather requirements and convert them into ML-based solutions.
+- Deploy ML models in production environments using MLOps practices and tools.
+- Conduct research to enhance existing models and explore new algorithms/techniques.
+- Monitor model performance and improve accuracy, scalability, and reliability.
+- Create detailed documentation for models, workflows, and development processes.
+
+REQUIRED SKILLS:
+- Python
+- Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, etc.
+- Machine Learning
+- Deep Learning
+- Data preprocessing
+- Feature engineering
+- model evaluation metrics
+- Docker
+- Flask/FastAPI
+- SQL databases
+
+PREFERRED SKILLS:
+- Familiarity with MLOps tools and workflows
+- Experience deploying models to production environments
+- Exposure to cloud platforms (AWS / GCP / Azure)
+- Version control using Git/GitHub
+- Strong analytical and problem-solving mindset
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Machine Learning Engineer
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Design, build, and deploy scalable ML and deep learning models for real-world applications.
+- Develop NLP-based and Gen AI based solutions for automating document understanding, classification, and summarisation.
+- Collaborate with AI researchers and developers to prototype and implement Generative AI tools.
+- Integrate ML and Gen AI models with APIs and internal tools to support business operations.
+- Work with CI/CD pipelines to ensure continuous delivery of ML features and updates.
+- Participate in code reviews, debugging, and performance optimisation of deployed models.
+- Communicate technical concepts effectively across cross-functional teams.
+
+REQUIRED SKILLS:
+- Machine Learning 
+- Python
+- Artificial Intelligence
+- Natural Language Processing 
+- Large Language Models (LLM) tuning
+
+PREFERRED SKILLS:
+- Experience with deep learning frameworks (PyTorch / TensorFlow)
+- Familiarity with RAG pipelines and vector databases
+- Basic MLOps knowledge (CI/CD, model monitoring)
+- Exposure to cloud platforms (AWS / GCP)
+- Git/GitHub collaboration experience
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Machine Learning Engineer
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Working on the awesome AI product for document information extraction. 
+- Build the next-generation information extraction product powered by state-of-the-art
+- AI and Deep Learning techniques.
+- Work with an international top-notch engineering team with full commitment on Machine Learning development 
+
+REQUIRED SKILLS:
+- Machine Learning 
+- Python
+- Artificial Intelligence
+- Natural Language Processing 
+- Large Language Models (LLM) tuning
+- data preprocessing
+-  feature engineering
+
+PREFERRED SKILLS:
+- Experience with deep learning frameworks (PyTorch / TensorFlow)
+- Familiarity with document AI or OCR-based workflows
+- Exposure to model deployment using APIs
+- Basic understanding of MLOps practices
+- Git/GitHub version control
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Machine Learning Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Develop and implement machine learning algorithms to improve our products and services.
+- Conduct data analysis and provide insights to drive business decisions.
+- Collaborate with cross-functional teams to integrate machine learning models into existing systems.
+- Research and stay up-to-date on the latest trends in machine learning and artificial intelligence.
+- Assist in the design and development of new machine learning models and techniques.
+- Optimize and fine-tune machine learning models for performance and scalability.
+- Present findings and recommendations to stakeholders clearly and concisely.
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Data Analytics
+- Data Science 
+- Deep Learning
+- Machine Learning 
+- Natural Language Processing
+- Python
+
+PREFERRED SKILLS:
+- Scikit-learn / PyTorch basics
+- Git/GitHub collaboration
+- Eagerness to learn ML systems
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Machine Learning Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Read, understand, and extract insights from various AI research papers
+- Learn to work on a deep learning framework and get familiar with data manipulation techniques
+- Collect data, perform experiments, and measure performance metrics
+- Prototype and experiment with various ML and deep learning techniques for performance and scalability
+- Deploy ML models on VM instances
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Natural Language Processing
+-  Python
+
+PREFERRED SKILLS:
+- All-round knowledge of Python and training data
+- Hands-on exposure to data collection 
+- Proficiency in data scraping
+- Deployment of models on VM instances
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Machine Learning Engineer
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Collaborate with our team of data scientists and engineers to develop and implement machine learning models
+- Conduct data analysis and provide insights to optimize existing algorithms
+- Work on projects related to NLP and develop solutions for text processing and sentiment analysis
+- Utilize deep learning techniques to enhance our AI algorithms and improve predictive models
+- Stay updated on the latest trends in machine learning and contribute innovative ideas to the team
+- Assist in the design and implementation of experiments to test the performance of machine learning models
+- Support the development of new AI-powered products and services for our clients 
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Data Analytics
+- Data Science 
+- Deep Learning
+- Machine Learning 
+- Natural Language Processing
+- Python
+- R Programming
+
+PREFERRED SKILLS:
+- Familiarity with NLP libraries (NLTK, spaCy, Hugging Face)
+- Basic experience with ML/DL frameworks (Scikit-learn, PyTorch, TensorFlow)
+- Data visualization and exploratory data analysis skills
+- Git/GitHub for version control
+- Strong interest in learning and experimenting with AI systems
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Data Scientist
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Work with the data science team to understand educational data projects and translate technical findings into clear, engaging content for educators, students, and stakeholders
+- Develop and write a variety of content types, including blog posts, case studies, reading material, educational resources, and social media posts that highlight our data-driven educational initiatives
+- Assist in creating data visualizations and infographics to support and enhance written content
+- Research current trends in data science, AI advancements, and other competitor activities to inform and enrich content creation
+- Collaborate with the marketing team to provide data-driven insights that optimize our content strategy
+
+REQUIRED SKILLS:
+- Deep Learning
+- Machine Learning
+- Power BI
+- Python
+- R Programming
+- SQL
+
+PREFERRED SKILLS:
+- Experience with data visualization tools (Tableau / Matplotlib / Seaborn)
+- Basic statistics and data storytelling skills
+- Familiarity with data cleaning and EDA workflows
+- Git/GitHub for version control
+- Strong written and verbal communication skills
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Data Scientist
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Collaborate with senior data scientists to analyze complex datasets and develop predictive models
+- Assist in the design and implementation of machine learning algorithms for data analysis
+- Research new technologies and tools to enhance data processing capabilities
+- Support the development of NLP algorithms for text and speech analysis
+- Help in the creation of deep learning models for image and video analysis
+- Contribute to the integration of AI solutions into existing systems
+- Present findings and insights to team members and stakeholders clearly and concisely
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Data Analytics
+- Data Science 
+- Deep Learning
+- Machine Learning 
+- Natural Language Processing
+- Python
+- SQL
+
+PREFERRED SKILLS:
+- Familiarity with ML/DL frameworks (Scikit-learn, PyTorch, TensorFlow)
+- Experience with data preprocessing and feature engineering
+- Basic data visualization skills (Matplotlib / Seaborn)
+- Git/GitHub for version control
+- Strong problem-solving and communication skills
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Data Scientist
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Collaborate with cross-functional teams to gather and analyze data for various projects.
+- Develop and implement machine learning models to optimize user experience and improve product performance.
+- Conduct data visualization and create reports to present findings to stakeholders.
+- Assist in the development and deployment of NLP algorithms for text analysis and sentiment analysis.
+- Stay up-to-date on the latest trends and technologies in data science to contribute innovative ideas.
+- Support the team in building AI solutions to automate processes and enhance business operations.
+- Contribute to the growth of the company by generating actionable insights from data and implementing data-driven strategies.
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Data Analytics
+- Data Science 
+- Deep Learning
+- Machine Learning 
+- Natural Language Processing
+- Python
+- SQL
+
+PREFERRED SKILLS:
+- Experience with data visualization tools (Matplotlib / Seaborn / Power BI)
+- Familiarity with data preprocessing and exploratory data analysis
+- Basic experience with ML libraries (Scikit-learn)
+- Git/GitHub for version control
+- Strong analytical and communication skills
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Data Scientist
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Own day-to-day execution of data science projects from problem definition to deployment, ensuring methodological rigor, business relevance, and timely delivery
+- Build, tune, and validate advanced machine learning and statistical models, including supervised techniques (classification, regression, uplift), unsupervised methods (clustering, PCA, GMM), transformer models, and analytical frameworks (hypothesis testing, causal inference, survival analysis) using industry-standard libraries
+- Develop clean, modular, and production-ready code with reusable components, adhering to best practices in version control, documentation, and scalable pipeline design for deployment in production or client-facing environments
+- Synthesize insights from diverse data sources, including claims, prescription (LAAD), lab, EMR, and unstructured text, into clear narratives driving client decisions tailored to patient, HCP, and market contexts
+- Collaborate with consultants, domain experts, and engineers to structure analytical workflows that answer complex commercial or clinical questions.
+- Present findings and insights to internal and client stakeholders in a clear, structured, and actionable manner.
+- Actively participate in client discussions, supporting solution development and storyboarding for business audiences
+- Contribute to internal capability building through reusable ML assets, accelerators, and documentation to strengthen the team’s solution portfolio.
+
+REQUIRED SKILLS:
+-  Python
+- PySpark
+- SQL
+- machine learning algorithms
+- feature engineering
+- model tuning
+- evaluation techniques
+- data visualization
+
+PREFERRED SKILLS:
+- Prior experience in the pharmaceutical or life sciences industry, with familiarity across structured data sources such as LAAD, Lab, Sales, and unstructured datasets (e.g., market research, physician notes, publications).
+- Experience with R, Rshiny, and data platforms such as Databricks, AWS, Azure, or Snowflake is an advantage.
+- Exposure to MLOps frameworks, including MLflow, Docker, Airflow, or CI/CD pipelines, to automate model training, deployment, and monitoring in scalable production environments.
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Data Scientist
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Develop and implement machine learning models and algorithms.
+- Work closely with project stakeholders to understand requirements and translate them into deliverables.
+- Utilize statistical and machine learning techniques to analyze and interpret complex data sets
+- Stay updated with the latest advancements in AI/ML technologies and methodologies
+- Collaborate with cross-functional teams to support various AI/ML initiatives.
+
+REQUIRED SKILLS:
+- Artificial Intelligence
+- Data Analytics
+- Data Science 
+- Deep Learning
+- Machine Learning 
+- Natural Language Processing
+- Python
+- SQL
+- RAG
+
+PREFERRED SKILLS:
+-  Experience in machine learning techniques such as Regression, Classification, Predictive modeling, Clustering, Computer vision(yolo),Deep Learning stack, NLP using python
+- Strong knowledge and experience in Generative AI/ LLM based development.
+- Strong experience working with key LLM models APIs and LLM Frameworks
+- Experience with cloud infrastructure for AI/Generative AI/ML on AWS, Azure.
+-  Knowledge of effective text chunking techniques for optimal processing and indexing of large documents or datasets.
+- Experience with RAG concepts and fundamentals,  Expertise in implementing RAG systems that combine knowledge bases with Generative AI models.
+- Proficiency in Python, TypeScript, NodeJS, ReactJS and frameworks. (e.g., pandas, NumPy, scikit-learn), Glue crawler, ETL
+-  Experience with data visualization tools (e.g., Matplotlib, Seaborn, Quicksight).
+- Knowledge of deep learning frameworks (e.g., TensorFlow, Keras, PyTorch).
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Full-Stack Developer 
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Assisting in developing UI components using frameworks like React, Vue, or Angular.
+- Writing backend logic using Node.js, Python (Flask/Django), or Java/Spring Boot.
+- Implementing APIs and connecting them with the frontend.
+- Consuming REST or GraphQL APIs on the frontend.
+- Helping build or modify backend APIs for data exchange.
+- Using tools like Postman or Swagger for testing endpoints.
+- Performing CRUD operations using SQL (MySQL, PostgreSQL) or NoSQL (MongoDB) databases.
+- Writing queries or working with ORMs (like SQLAlchemy or Mongoose).
+- Identifying and fixing UI issues, console errors, or backend exceptions.
+- Using browser dev tools and logging tools to trace issues.
+
+REQUIRED SKILLS:
+- HTML
+- JavaScript
+- MongoDB
+- MySQL
+- PHP
+- Python
+
+PREFERRED SKILLS:
+- Familiarity with frontend frameworks (React / Vue / Angular)
+- Basic experience with backend frameworks (Flask / Django / Node.js)
+- Understanding of REST APIs and HTTP concepts
+- Git/GitHub for version control
+- Strong debugging and problem-solving skills
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Full-Stack Developer 
+LEVEL: Intern
+
+RESPONSIBILITIES:
+- Develop responsive frontend components using Next.js/React.
+- Build and optimize backend APIs and database schemas using Node.js.
+- Implement multi-tenant logic and secure authentication flows.
+- Collaborate on building AI-driven features for HR automation.
+
+REQUIRED SKILLS:
+- JavaScript/TypeScript
+- Node.js.
+- React/Next.js
+- Tailwind CSS
+- SQL/NoSQL databases
+
+PREFERRED SKILLS:
+- Experience with REST APIs and basic backend architecture
+- Familiarity with authentication (JWT, OAuth) concepts
+- Exposure to Docker or deployment workflows
+- Git/GitHub for version control
+- Interest in building AI-powered features
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Full-Stack Developer 
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Work with development teams and product managers to ideate software solutions
+- Design client-side and server-side architecture
+- Build the front-end of applications through appealing visual design
+- Develop and manage well-functioning databases and applications
+- Write effective APIs
+- Test software to ensure responsiveness and efficiency
+- Troubleshoot, debug and upgrade software
+- Create security and data protection settings
+- Build features and applications with a mobile responsive design
+- Write technical documentation
+
+REQUIRED SKILLS:
+- - JavaScript/TypeScript
+- Node.js.
+- React/Next.js
+- Tailwind CSS
+- SQL/NoSQL databases
+- Python
+- HTML
+
+PREFERRED SKILLS:
+- Experience building and consuming REST APIs
+- Familiarity with authentication and authorization (JWT, OAuth)
+- Basic knowledge of Docker and deployment workflows
+- Exposure to cloud platforms (AWS / GCP)
+- Git/GitHub collaboration experience
+
+
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+ROLE: Full-Stack Developer 
+LEVEL: Entry
+
+RESPONSIBILITIES:
+- Design, build, and maintain backend services using TypeScript and Node.js.
+- Contribute to APIs and services that interface with Kotlin and Swift-based SDKs to enable secure, contactless payments on mobile platforms.
+- Implement secure RESTful APIs for integration with frontend and mobile applications.
+- Ensure that backend systems meet strict security and compliance standards.
+- Optimize services for scalability, reliability, and performance in production environments.
+- Participate in sprint planning, architecture reviews, and team discussions.
+- Write clean, testable, and well-documented code aligned with modern engineering practices.
+- Stay current with backend, mobile (Android and iOS), and infrastructure trends relevant to the payment ecosystem.
+
+REQUIRED SKILLS:
+- C or C++
+- Kotlin
+- PostgreSQL
+- SoftPOS
+- Azure
+- Docker
+- GCP
+- Kubernetes
+- Node Js
+- TypeScript 
+
+PREFERRED SKILLS:
+- Understanding of cryptographic protocols and their application in secure environments.
+- Experience with container orchestration (e.g. Kubernetes).
+- Proficiency in C or C++.
+- Experience with cloud platforms (AWS, GCP, or Azure).
+- Experience with native iOS and Android development or mobile SDK integration.
+- Familiarity with relational databases and SQL.
+- Experience with observability and production monitoring tools.
