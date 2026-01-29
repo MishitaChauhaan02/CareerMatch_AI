@@ -1,4 +1,4 @@
-AI Resume–Job Matcher
+CareerMatch_AI
 
 An end-to-end AI application that evaluates resumes against job descriptions using semantic similarity, skill gap analysis, and LLM-based feedback to provide actionable improvement suggestions.
 This project simulates how modern hiring platforms analyze resumes using NLP and AI.
@@ -27,3 +27,4 @@ How It Works:
 - Semantic similarity and skill overlap are calculated
 - An LLM generates personalized feedback and suggestions
 - Results are displayed in a clean Streamlit interface
+
